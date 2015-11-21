@@ -1,0 +1,10 @@
+Gamemaster	1000	12-01-13
+Pun	2000	12-02-13
+StarKnight	3000		12-03-13
+Watsurdeal	4000	12-04-13
+Dreadknought	5000 	12-05-13
+ZachFlinstone	6000		12-06-13
+hooli	7000		12-07-13
+FROGG	8000		12-08-13
+D3STRUCTION	9000	12-09-13
+0xyg3n	100000		12-10-13
